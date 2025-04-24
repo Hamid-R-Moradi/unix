@@ -1,0 +1,2425 @@
+LOCUS       NP_001424974             744 aa            linear   PRI 15-APR-2025
+DEFINITION  tripartite motif-containing protein 2 isoform 2 [Homo sapiens].
+ACCESSION   NP_001424974 XP_016863437 XP_054205464
+VERSION     NP_001424974.1
+DBSOURCE    REFSEQ: accession NM_001438045.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 744)
+  AUTHORS   Lv,R., Lu,F. and Xu,S.
+  TITLE     Hsa_circ_0001361 facilitates cell progression and glycolytic
+            metabolism in neuroblastoma via interacting with mir-490-5p to
+            induce TRIM2 upregulation
+  JOURNAL   Metab Brain Dis 38 (5), 1621-1632 (2023)
+   PUBMED   36920626
+  REMARK    GeneRIF: Hsa_circ_0001361 facilitates cell progression and
+            glycolytic metabolism in neuroblastoma via interacting with
+            mir-490-5p to induce TRIM2 upregulation.
+REFERENCE   2  (residues 1 to 744)
+  AUTHORS   Kim,D.K., Weller,B., Lin,C.W., Sheykhkarimli,D., Knapp,J.J.,
+            Dugied,G., Zanzoni,A., Pons,C., Tofaute,M.J., Maseko,S.B.,
+            Spirohn,K., Laval,F., Lambourne,L., Kishore,N., Rayhan,A.,
+            Sauer,M., Young,V., Halder,H., la Rosa,N.M., Pogoutse,O.,
+            Strobel,A., Schwehn,P., Li,R., Rothballer,S.T., Altmann,M.,
+            Cassonnet,P., Cote,A.G., Vergara,L.E., Hazelwood,I., Liu,B.B.,
+            Nguyen,M., Pandiarajan,R., Dohai,B., Coloma,P.A.R., Poirson,J.,
+            Giuliana,P., Willems,L., Taipale,M., Jacob,Y., Hao,T., Hill,D.E.,
+            Brun,C., Twizere,J.C., Krappmann,D., Heinig,M., Falter,C., Aloy,P.,
+            Demeret,C., Vidal,M., Calderwood,M.A., Roth,F.P. and
+            Falter-Braun,P.
+  TITLE     A proteome-scale map of the SARS-CoV-2-human contactome
+  JOURNAL   Nat Biotechnol 41 (1), 140-149 (2023)
+   PUBMED   36217029
+REFERENCE   3  (residues 1 to 744)
+  AUTHORS   Esposito,D., Dudley-Fraser,J., Garza-Garcia,A. and Rittinger,K.
+  TITLE     Divergent self-association properties of paralogous proteins TRIM2
+            and TRIM3 regulate their E3 ligase activity
+  JOURNAL   Nat Commun 13 (1), 7583 (2022)
+   PUBMED   36481767
+  REMARK    GeneRIF: Divergent self-association properties of paralogous
+            proteins TRIM2 and TRIM3 regulate their E3 ligase activity.
+            Publication Status: Online-Only
+REFERENCE   4  (residues 1 to 744)
+  AUTHORS   Xiao,M., Li,J., Liu,Q., He,X., Yang,Z. and Wang,D.
+  TITLE     Expression and Role of TRIM2 in Human Diseases
+  JOURNAL   Biomed Res Int 2022, 9430509 (2022)
+   PUBMED   36051486
+  REMARK    GeneRIF: Expression and Role of TRIM2 in Human Diseases.
+            Review article
+            Publication Status: Online-Only
+REFERENCE   5  (residues 1 to 744)
+  AUTHORS   Ylikallio,E., Poyhonen,R., Zimon,M., De Vriendt,E., Hilander,T.,
+            Paetau,A., Jordanova,A., Lonnqvist,T. and Tyynismaa,H.
+  TITLE     Deficiency of the E3 ubiquitin ligase TRIM2 in early-onset axonal
+            neuropathy
+  JOURNAL   Hum Mol Genet 22 (15), 2975-2983 (2013)
+   PUBMED   23562820
+REFERENCE   6  (residues 1 to 744)
+  AUTHORS   Galligan,C.L., Baig,E., Bykerk,V., Keystone,E.C. and Fish,E.N.
+  TITLE     Distinctive gene expression signatures in rheumatoid arthritis
+            synovial tissue fibroblast cells: correlates with disease activity
+  JOURNAL   Genes Immun 8 (6), 480-491 (2007)
+   PUBMED   17568789
+REFERENCE   7  (residues 1 to 744)
+  AUTHORS   Miyatake,T., Ueda,Y., Nakashima,R., Yoshino,K., Kimura,T.,
+            Murata,T., Nomura,T., Fujita,M., Buzard,G.S. and Enomoto,T.
+  TITLE     Down-regulation of insulin-like growth factor binding protein-5
+            (IGFBP-5): novel marker for cervical carcinogenesis
+  JOURNAL   Int J Cancer 120 (10), 2068-2077 (2007)
+   PUBMED   17290407
+REFERENCE   8  (residues 1 to 744)
+  AUTHORS   Ohkawa,N., Kokura,K., Matsu-Ura,T., Obinata,T., Konishi,Y. and
+            Tamura,T.A.
+  TITLE     Molecular cloning and characterization of neural activity-related
+            RING finger protein (NARF): a new member of the RBCC family is a
+            candidate for the partner of myosin V
+  JOURNAL   J Neurochem 78 (1), 75-87 (2001)
+   PUBMED   11432975
+REFERENCE   9  (residues 1 to 744)
+  AUTHORS   Reymond,A., Meroni,G., Fantozzi,A., Merla,G., Cairo,S., Luzi,L.,
+            Riganelli,D., Zanaria,E., Messali,S., Cainarca,S., Guffanti,A.,
+            Minucci,S., Pelicci,P.G. and Ballabio,A.
+  TITLE     The tripartite motif family identifies cell compartments
+  JOURNAL   EMBO J 20 (9), 2140-2151 (2001)
+   PUBMED   11331580
+REFERENCE   10 (residues 1 to 744)
+  AUTHORS   Bird,T.D.
+  TITLE     Charcot-Marie-Tooth Neuropathy Type 2 - RETIRED CHAPTER, FOR
+            HISTORICAL REFERENCE ONLY
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and
+            Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301462
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC114791.3 and AC013477.7.
+            
+            On or before Apr 15, 2025 this sequence version replaced
+            XP_016863437.1, XP_054205464.1.
+            
+            Summary: The protein encoded by this gene is a member of the
+            tripartite motif (TRIM) family. The TRIM motif includes three
+            zinc-binding domains, a RING, a B-box type 1 and a B-box type 2,
+            and a coiled-coil region. The protein localizes to cytoplasmic
+            filaments. It plays a neuroprotective role and functions as an
+            E3-ubiquitin ligase in proteasome-mediated degradation of target
+            proteins. Mutations in this gene can cause early-onset axonal
+            neuropathy. Alternative splicing results in multiple transcript
+            variants. [provided by RefSeq, Nov 2014].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR11853567.23518.1,
+                                           SRR11853560.22460.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968540, SAMEA1968832
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..744
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="4"
+                     /map="4q31.3"
+     Protein         1..744
+                     /product="tripartite motif-containing protein 2 isoform 2"
+                     /EC_number="2.3.2.27"
+                     /note="tripartite motif protein TRIM2; RING finger protein
+                     86; E3 ubiquitin-protein ligase TRIM2; RING-type E3
+                     ubiquitin transferase TRIM2; Charcot-Marie-Tooth disease,
+                     type 2R"
+                     /calculated_mol_wt=81399
+     Site            10
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:D3ZQG6; propagated from
+                     UniProtKB/Swiss-Prot (Q9C040.1)"
+     Region          320..421
+                     /region_name="Filamin"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C040.1)"
+     Site            371
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:Q9ESN6; propagated from
+                     UniProtKB/Swiss-Prot (Q9C040.1)"
+     Site            375
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q9ESN6; propagated from
+                     UniProtKB/Swiss-Prot (Q9C040.1)"
+     Site            424
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q9ESN6; propagated from
+                     UniProtKB/Swiss-Prot (Q9C040.1)"
+     Site            428
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q9ESN6; propagated from
+                     UniProtKB/Swiss-Prot (Q9C040.1)"
+     Region          432..462
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C040.1)"
+     Region          473..516
+                     /region_name="NHL 1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C040.1)"
+     Region          520..563
+                     /region_name="NHL 2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C040.1)"
+     Region          564..605
+                     /region_name="NHL 3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C040.1)"
+     Region          609..652
+                     /region_name="NHL 4"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C040.1)"
+     Region          656..699
+                     /region_name="NHL 5"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C040.1)"
+     Region          700..743
+                     /region_name="NHL 6"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C040.1)"
+     CDS             1..744
+                     /gene="TRIM2"
+                     /gene_synonym="CMT2R; RNF86"
+                     /coded_by="NM_001438045.1:331..2565"
+                     /note="isoform 2 is encoded by transcript variant 25"
+                     /db_xref="GeneID:23321"
+                     /db_xref="HGNC:HGNC:15974"
+                     /db_xref="MIM:614141"
+ORIGIN      
+        1 masegtnips pvvrqidkqf licsiclery knpkvlpclh tfcerclqny ipahsltlsc
+       61 pvcrqtsilp ekgvaalqnn ffitnlmdvl qrtpgsnaee ssiletvtav aagkplscpn
+      121 hdgnvmefyc qscetamcre ctegehaehp tvplkdvveq hkaslqvqld avnkrlpeid
+      181 salqfiseii hqltnqkasi vddihstfde lqktlnvrks vllmelevny glkhkvlqsq
+      241 ldtllqgqes ikscsnftaq alnhgtetev llvkkqmsek lneladqdfp lhprendqld
+      301 fiveteglkk sihnlgtilt tnavasetva tgeglrqtii gqpmsvtitt kdkdgelckt
+      361 gnayltaels tpdgsvadge ildnkngtye flytvqkegd ftlslrlydq hirgspfklk
+      421 virsadvspt tegvkrrvks pgsghvkqka vkrpasmyst gkrkenpied dlifrvgtkg
+      481 rnkgeftnlq gvaastngki liadsnnqcv qifsndgqfk srfgirgrsp gqlqrptgva
+      541 vhpsgdiiia dydnkwvsif ssdgkfktki gsgklmgpkg vsvdrnghii vvdnkaccvf
+      601 ifqpngkivt rfgsrgngdr qfagphfaav nsnneiiitd fhnhsvkvfn qegefmlkfg
+      661 sngegngqfn aptgvavdsn gniivadwgn sriqvfdgsg sflsyintsa dplygpqgla
+      721 ltsdghvvva dsgnhcfkvy rylq
+//
+
+LOCUS       NP_001424955             230 aa            linear   PRI 15-APR-2025
+DEFINITION  Krueppel-like factor 7 isoform 5 [Homo sapiens].
+ACCESSION   NP_001424955 XP_016860653 XP_054200291
+VERSION     NP_001424955.1
+DBSOURCE    REFSEQ: accession NM_001438026.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 230)
+  AUTHORS   Zhang,J., Li,Z., Han,J., Tian,Z., Meng,Q. and Niu,W.
+  TITLE     KLF7 enhances the invasion and migration of colorectal cancer cells
+            via the miR-139-5p/TPD52 axis
+  JOURNAL   Cancer Biol Ther 25 (1), 2385172 (2024)
+   PUBMED   39097779
+  REMARK    GeneRIF: KLF7 enhances the invasion and migration of colorectal
+            cancer cells via the miR-139-5p/TPD52 axis.
+REFERENCE   2  (residues 1 to 230)
+  AUTHORS   Josefson,J.L., Kuang,A., Allard,C., Bianco,M.E., Lowe,W. Jr.,
+            Scholtens,D.M., Bouchard,L. and Hivert,M.F.
+  TITLE     Newborn adiposity is associated with cord blood DNA methylation at
+            IGF1R and KLF7
+  JOURNAL   Obesity (Silver Spring) 32 (10), 1923-1933 (2024)
+   PUBMED   39165088
+  REMARK    GeneRIF: Newborn adiposity is associated with cord blood DNA
+            methylation at IGF1R and KLF7.
+REFERENCE   3  (residues 1 to 230)
+  AUTHORS   Qiao,S., Jia,Y., Xie,L., Jing,W., Xia,Y., Song,Y., Zhang,J.,
+            Cao,T., Song,H., Meng,L., Shi,L. and Zhang,X.
+  TITLE     KLF7 promotes neuroblastoma differentiation through the GTPase
+            signaling pathway by upregulating neuroblast
+            differentiation-associated protein AHNAKs and
+            glycerophosphodiesterase GDPD5
+  JOURNAL   FEBS J 291 (17), 3870-3888 (2024)
+   PUBMED   38924469
+  REMARK    GeneRIF: KLF7 promotes neuroblastoma differentiation through the
+            GTPase signaling pathway by upregulating neuroblast
+            differentiation-associated protein AHNAKs and
+            glycerophosphodiesterase GDPD5.
+REFERENCE   4  (residues 1 to 230)
+  AUTHORS   Li,Y. and Liu,L.
+  TITLE     UKLF/PCBP2 axis governs the colorectal cancer development by
+            transcriptionally activating SLC39A4
+  JOURNAL   Biochim Biophys Acta Mol Cell Res 1871 (6), 119755 (2024)
+   PUBMED   38768927
+  REMARK    GeneRIF: UKLF/PCBP2 axis governs the colorectal cancer development
+            by transcriptionally activating SLC39A4.
+REFERENCE   5  (residues 1 to 230)
+  AUTHORS   Kawamura,Y., Tanaka,Y., Kawamori,R. and Maeda,S.
+  TITLE     Overexpression of Kruppel-like factor 7 regulates adipocytokine
+            gene expressions in human adipocytes and inhibits glucose-induced
+            insulin secretion in pancreatic beta-cell line
+  JOURNAL   Mol Endocrinol 20 (4), 844-856 (2006)
+   PUBMED   16339272
+  REMARK    GeneRIF: KLF7 may contribute to the pathogenesis of type 2 diabetes
+            through an impairment of insulin biosynthesis and secretion in
+            pancreatic beta-cells and a reduction of insulin sensitivity in
+            peripheral tissues.
+REFERENCE   6  (residues 1 to 230)
+  AUTHORS   Butcher,L.M., Meaburn,E., Knight,J., Sham,P.C., Schalkwyk,L.C.,
+            Craig,I.W. and Plomin,R.
+  TITLE     SNPs, microarrays and pooled DNA: identification of four loci
+            associated with mild mental impairment in a sample of 6000 children
+  JOURNAL   Hum Mol Genet 14 (10), 1315-1325 (2005)
+   PUBMED   15800012
+REFERENCE   7  (residues 1 to 230)
+  AUTHORS   Chiambaretta,F., De Graeve,F., Turet,G., Marceau,G., Gain,P.,
+            Dastugue,B., Rigal,D. and Sapin,V.
+  TITLE     Cell and tissue specific expression of human Kruppel-like
+            transcription factors in human ocular surface
+  JOURNAL   Mol Vis 10, 901-909 (2004)
+   PUBMED   15570219
+  REMARK    Publication Status: Online-Only
+REFERENCE   8  (residues 1 to 230)
+  AUTHORS   Suzuki,S., Chuang,L.F., Doi,R.H. and Chuang,R.Y.
+  TITLE     Identification of opioid-regulated genes in human lymphocytic cells
+            by differential display: upregulation of Kruppel-like factor 7 by
+            morphine
+  JOURNAL   Exp Cell Res 291 (2), 340-351 (2003)
+   PUBMED   14644156
+  REMARK    GeneRIF: KLF7 was upregulated by morphine at both the
+            transcriptional and the translational levels, promoting cell growth
+            up to day 4
+REFERENCE   9  (residues 1 to 230)
+  AUTHORS   Pescucci,C., Meloni,I., Bruttini,M., Ariani,F., Longo,I., Mari,F.,
+            Canitano,R., Hayek,G., Zappella,M. and Renieri,A.
+  TITLE     Chromosome 2 deletion encompassing the MAP2 gene in a patient with
+            autism and Rett-like features
+  JOURNAL   Clin Genet 64 (6), 497-501 (2003)
+   PUBMED   14986829
+REFERENCE   10 (residues 1 to 230)
+  AUTHORS   Matsumoto,N., Laub,F., Aldabe,R., Zhang,W., Ramirez,F., Yoshida,T.
+            and Terada,M.
+  TITLE     Cloning the cDNA for a new human zinc finger protein defines a
+            group of closely related Kruppel-like transcription factors
+  JOURNAL   J Biol Chem 273 (43), 28229-28237 (1998)
+   PUBMED   9774444
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC007879.4 and AC008062.3.
+            
+            On or before Apr 15, 2025 this sequence version replaced
+            XP_016860653.1, XP_054200291.1.
+            
+            Summary: The protein encoded by this gene is a member of the
+            Kruppel-like transcriptional regulator family. Members in this
+            family regulate cell proliferation, differentiation and survival
+            and contain three C2H2 zinc fingers at the C-terminus that mediate
+            binding to GC-rich sites. This protein may contribute to the
+            progression of type 2 diabetes by inhibiting insulin expression and
+            secretion in pancreatic beta-cells and by deregulating
+            adipocytokine secretion in adipocytes. A pseudogene of this gene is
+            located on the long arm of chromosome 3. Alternative splicing
+            results in multiple transcript variants. [provided by RefSeq, Aug
+            2012].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803615.264545.1,
+                                           SRR14038194.1410270.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..230
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q33.3"
+     Protein         1..230
+                     /product="Krueppel-like factor 7 isoform 5"
+                     /note="ubiquitous Kruppel-like transcription factor;
+                     krueppel-like factor 7; Kruppel-like factor 7
+                     (ubiquitous); ubiquitous Kruppel-like factor; Kruppel like
+                     factor 7"
+                     /calculated_mol_wt=24660
+     CDS             1..230
+                     /gene="KLF7"
+                     /gene_synonym="UKLF"
+                     /coded_by="NM_001438026.1:381..1073"
+                     /note="isoform 5 is encoded by transcript variant 6"
+                     /db_xref="GeneID:8609"
+                     /db_xref="HGNC:HGNC:6350"
+                     /db_xref="MIM:604865"
+ORIGIN      
+        1 mdvlasysif qelqlvhdtg yfsalpslee twqqtclele rylqteprri setfgedldc
+       61 flhaspppci eesfrrldpl llpveaaice kssavdills rdkllsetcl slqpasssld
+      121 sytavnqaql navtsltpps spelsrhlvk tsqtlsavdg tvtlklvakk aalssvkvrs
+      181 lisahgrdvs gvlheamssr gttgntqvqs psnattatgv fpgltilpst
+//
+
+LOCUS       8YYT_F                    49 aa            linear   PRI 09-APR-2025
+DEFINITION  Chain F, Insulin.
+ACCESSION   8YYT_F
+VERSION     8YYT_F
+DBSOURCE    pdb: molecule 8YYT, chain F, release Apr 9, 2025;
+            deposition: Apr 4, 2024;
+            class: MEMBRANE PROTEIN;
+            source: Mmdb_id: 262329, Pdb_id 1: 8YYT;
+            Exp. method: Electron Microscopy.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 49)
+  AUTHORS   Xi,Z.
+  TITLE     Cryo-EM structure of the complex IR with four insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 49)
+  AUTHORS   Xi,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-APR-2024)
+COMMENT     Cryo-EM structure of the complex IR with four insulin.
+FEATURES             Location/Qualifiers
+     source          1..49
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Bond            bond(5,35)
+                     /bond_type="disulfide"
+     SecStr          6..13
+                     /sec_str_type="helix"
+                     /note="helix 12"
+     Bond            bond(17,48)
+                     /bond_type="disulfide"
+     Bond            bond(34,39)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 nqhlcgshlv ealylvcger gffytpkagi veqcctsics lyqlenycn
+//
+
+LOCUS       8YYT_E                    49 aa            linear   PRI 09-APR-2025
+DEFINITION  Chain E, Insulin.
+ACCESSION   8YYT_E
+VERSION     8YYT_E
+DBSOURCE    pdb: molecule 8YYT, chain E, release Apr 9, 2025;
+            deposition: Apr 4, 2024;
+            class: MEMBRANE PROTEIN;
+            source: Mmdb_id: 262329, Pdb_id 1: 8YYT;
+            Exp. method: Electron Microscopy.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 49)
+  AUTHORS   Xi,Z.
+  TITLE     Cryo-EM structure of the complex IR with four insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 49)
+  AUTHORS   Xi,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-APR-2024)
+COMMENT     Cryo-EM structure of the complex IR with four insulin.
+FEATURES             Location/Qualifiers
+     source          1..49
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Bond            bond(5,35)
+                     /bond_type="disulfide"
+     SecStr          5..13
+                     /sec_str_type="helix"
+                     /note="helix 11"
+     Bond            bond(17,48)
+                     /bond_type="disulfide"
+     Bond            bond(34,39)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 nqhlcgshlv ealylvcger gffytpkagi veqcctsics lyqlenycn
+//
+
+LOCUS       8YYT_D                    49 aa            linear   PRI 09-APR-2025
+DEFINITION  Chain D, Insulin.
+ACCESSION   8YYT_D
+VERSION     8YYT_D
+DBSOURCE    pdb: molecule 8YYT, chain D, release Apr 9, 2025;
+            deposition: Apr 4, 2024;
+            class: MEMBRANE PROTEIN;
+            source: Mmdb_id: 262329, Pdb_id 1: 8YYT;
+            Exp. method: Electron Microscopy.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 49)
+  AUTHORS   Xi,Z.
+  TITLE     Cryo-EM structure of the complex IR with four insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 49)
+  AUTHORS   Xi,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-APR-2024)
+COMMENT     Cryo-EM structure of the complex IR with four insulin.
+FEATURES             Location/Qualifiers
+     source          1..49
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Bond            bond(34,39)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 nqhlcgshlv ealylvcger gffytpkagi veqcctsics lyqlenycn
+//
+
+LOCUS       8YYT_C                    49 aa            linear   PRI 09-APR-2025
+DEFINITION  Chain C, Insulin.
+ACCESSION   8YYT_C
+VERSION     8YYT_C
+DBSOURCE    pdb: molecule 8YYT, chain C, release Apr 9, 2025;
+            deposition: Apr 4, 2024;
+            class: MEMBRANE PROTEIN;
+            source: Mmdb_id: 262329, Pdb_id 1: 8YYT;
+            Exp. method: Electron Microscopy.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 49)
+  AUTHORS   Xi,Z.
+  TITLE     Cryo-EM structure of the complex IR with four insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 49)
+  AUTHORS   Xi,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-APR-2024)
+COMMENT     Cryo-EM structure of the complex IR with four insulin.
+FEATURES             Location/Qualifiers
+     source          1..49
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Bond            bond(34,39)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 nqhlcgshlv ealylvcger gffytpkagi veqcctsics lyqlenycn
+//
+
+LOCUS       8YYL_C                    49 aa            linear   PRI 09-APR-2025
+DEFINITION  Chain C, Insulin.
+ACCESSION   8YYL_C
+VERSION     8YYL_C
+DBSOURCE    pdb: molecule 8YYL, chain C, release Apr 9, 2025;
+            deposition: Apr 4, 2024;
+            class: MEMBRANE PROTEIN;
+            source: Mmdb_id: 262328, Pdb_id 1: 8YYL;
+            Exp. method: Electron Microscopy.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 49)
+  AUTHORS   Xi,Z.
+  TITLE     Cryo-EM structure of the complex IR with one insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 49)
+  AUTHORS   Xi,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-APR-2024)
+COMMENT     Cryo-EM structure of the complex IR with one insulin.
+FEATURES             Location/Qualifiers
+     source          1..49
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Bond            bond(5,35)
+                     /bond_type="disulfide"
+     SecStr          9..17
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     Bond            bond(17,48)
+                     /bond_type="disulfide"
+     Bond            bond(34,39)
+                     /bond_type="disulfide"
+     SecStr          41..48
+                     /sec_str_type="helix"
+                     /note="helix 9"
+ORIGIN      
+        1 nqhlcgshlv ealylvcger gffytpkagi veqcctsics lyqlenycn
+//
+
+LOCUS       8YSZ_E                   180 aa            linear   PRI 26-MAR-2025
+DEFINITION  Chain E, Insulin-like growth factor II.
+ACCESSION   8YSZ_E
+VERSION     8YSZ_E
+DBSOURCE    pdb: molecule 8YSZ, chain E, release Mar 26, 2025;
+            deposition: Mar 24, 2024;
+            class: MEMBRANE PROTEIN;
+            source: Mmdb_id: 261474, Pdb_id 1: 8YSZ;
+            Exp. method: Electron Microscopy.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 180)
+  AUTHORS   Xi,Z.
+  TITLE     Cryo-EM structure of the complex IR with three IGF-II
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 180)
+  AUTHORS   Xi,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2024)
+COMMENT     Cryo-EM structure of the complex IR with three IGF-II.
+FEATURES             Location/Qualifiers
+     source          1..180
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     SecStr          36..45
+                     /sec_str_type="helix"
+                     /note="helix 9"
+     Bond            bond(70,75)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 mgipmgksml vlltflafas cciaayrpse tlcggelvdt lqfvcgdrgf yfsrpasrvs
+       61 rrsrgiveec cfrscdlall etycatpaks erdvstpptv lpdnfprypv gkffqydtwk
+      121 qstqrlrrgl pallrarrgh vlakeleafr eakrhrplia lptqdpahgg appemasnrk
+//
+
+LOCUS       8YSZ_C                   180 aa            linear   PRI 26-MAR-2025
+DEFINITION  Chain C, Insulin-like growth factor II.
+ACCESSION   8YSZ_C
+VERSION     8YSZ_C
+DBSOURCE    pdb: molecule 8YSZ, chain C, release Mar 26, 2025;
+            deposition: Mar 24, 2024;
+            class: MEMBRANE PROTEIN;
+            source: Mmdb_id: 261474, Pdb_id 1: 8YSZ;
+            Exp. method: Electron Microscopy.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 180)
+  AUTHORS   Xi,Z.
+  TITLE     Cryo-EM structure of the complex IR with three IGF-II
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 180)
+  AUTHORS   Xi,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2024)
+COMMENT     Cryo-EM structure of the complex IR with three IGF-II.
+FEATURES             Location/Qualifiers
+     source          1..180
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Bond            bond(33,71)
+                     /bond_type="disulfide"
+     SecStr          36..45
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     Bond            bond(45,84)
+                     /bond_type="disulfide"
+     Bond            bond(70,75)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 mgipmgksml vlltflafas cciaayrpse tlcggelvdt lqfvcgdrgf yfsrpasrvs
+       61 rrsrgiveec cfrscdlall etycatpaks erdvstpptv lpdnfprypv gkffqydtwk
+      121 qstqrlrrgl pallrarrgh vlakeleafr eakrhrplia lptqdpahgg appemasnrk
+//
+
+LOCUS       8YSZ_D                   180 aa            linear   PRI 26-MAR-2025
+DEFINITION  Chain D, Insulin-like growth factor II.
+ACCESSION   8YSZ_D
+VERSION     8YSZ_D
+DBSOURCE    pdb: molecule 8YSZ, chain D, release Mar 26, 2025;
+            deposition: Mar 24, 2024;
+            class: MEMBRANE PROTEIN;
+            source: Mmdb_id: 261474, Pdb_id 1: 8YSZ;
+            Exp. method: Electron Microscopy.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 180)
+  AUTHORS   Xi,Z.
+  TITLE     Cryo-EM structure of the complex IR with three IGF-II
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 180)
+  AUTHORS   Xi,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2024)
+COMMENT     Cryo-EM structure of the complex IR with three IGF-II.
+FEATURES             Location/Qualifiers
+     source          1..180
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     SecStr          36..44
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Bond            bond(45,84)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 mgipmgksml vlltflafas cciaayrpse tlcggelvdt lqfvcgdrgf yfsrpasrvs
+       61 rrsrgiveec cfrscdlall etycatpaks erdvstpptv lpdnfprypv gkffqydtwk
+      121 qstqrlrrgl pallrarrgh vlakeleafr eakrhrplia lptqdpahgg appemasnrk
+//
+
+LOCUS       9M51_B                    29 aa            linear   PRI 12-MAR-2025
+DEFINITION  Chain B, Insulin B chain.
+ACCESSION   9M51_B
+VERSION     9M51_B
+DBSOURCE    pdb: molecule 9M51, chain B, release Mar 12, 2025;
+            deposition: Mar 5, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260887, Pdb_id 1: 9M51;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Cubic insulin crystal, Esrapid, at pH 6
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2025)
+COMMENT     Cubic insulin crystal, Esrapid, at pH 6.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          8..19
+                     /sec_str_type="helix"
+                     /note="helix 1"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9M51_A                    21 aa            linear   PRI 12-MAR-2025
+DEFINITION  Chain A, Insulin A chain.
+ACCESSION   9M51_A
+VERSION     9M51_A
+DBSOURCE    pdb: molecule 9M51, chain A, release Mar 12, 2025;
+            deposition: Mar 5, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260887, Pdb_id 1: 9M51;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Cubic insulin crystal, Esrapid, at pH 6
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2025)
+COMMENT     Cubic insulin crystal, Esrapid, at pH 6.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..20
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc g
+//
+
+LOCUS       9M50_B                    29 aa            linear   PRI 12-MAR-2025
+DEFINITION  Chain B, Insulin B chain.
+ACCESSION   9M50_B
+VERSION     9M50_B
+DBSOURCE    pdb: molecule 9M50, chain B, release Mar 12, 2025;
+            deposition: Mar 5, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260886, Pdb_id 1: 9M50;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Cubic insulin crystal, Esrapid, at pH 5
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2025)
+COMMENT     Cubic insulin crystal, Esrapid, at pH 5.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          8..19
+                     /sec_str_type="helix"
+                     /note="helix 1"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9M50_A                    21 aa            linear   PRI 12-MAR-2025
+DEFINITION  Chain A, Insulin A chain.
+ACCESSION   9M50_A
+VERSION     9M50_A
+DBSOURCE    pdb: molecule 9M50, chain A, release Mar 12, 2025;
+            deposition: Mar 5, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260886, Pdb_id 1: 9M50;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Cubic insulin crystal, Esrapid, at pH 5
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2025)
+COMMENT     Cubic insulin crystal, Esrapid, at pH 5.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..20
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc g
+//
+
+LOCUS       9M4Z_B                    29 aa            linear   PRI 12-MAR-2025
+DEFINITION  Chain B, Insulin B chain.
+ACCESSION   9M4Z_B
+VERSION     9M4Z_B
+DBSOURCE    pdb: molecule 9M4Z, chain B, release Mar 12, 2025;
+            deposition: Mar 5, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260885, Pdb_id 1: 9M4Z;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Cubic insulin crystal, Esrapid, at pH 4
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2025)
+COMMENT     Cubic insulin crystal, Esrapid, at pH 4.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          8..19
+                     /sec_str_type="helix"
+                     /note="helix 1"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9M4Z_A                    21 aa            linear   PRI 12-MAR-2025
+DEFINITION  Chain A, Insulin A chain.
+ACCESSION   9M4Z_A
+VERSION     9M4Z_A
+DBSOURCE    pdb: molecule 9M4Z, chain A, release Mar 12, 2025;
+            deposition: Mar 5, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260885, Pdb_id 1: 9M4Z;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Cubic insulin crystal, Esrapid, at pH 4
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2025)
+COMMENT     Cubic insulin crystal, Esrapid, at pH 4.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..20
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc g
+//
+
+LOCUS       9M4Y_B                    29 aa            linear   PRI 12-MAR-2025
+DEFINITION  Chain B, Insulin B chain.
+ACCESSION   9M4Y_B
+VERSION     9M4Y_B
+DBSOURCE    pdb: molecule 9M4Y, chain B, release Mar 12, 2025;
+            deposition: Mar 5, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260884, Pdb_id 1: 9M4Y;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Cubic insulin crystals, Esrapid, At pH 3
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2025)
+COMMENT     Cubic insulin crystal, Esrapid, at pH 3.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          8..19
+                     /sec_str_type="helix"
+                     /note="helix 1"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9M4Y_A                    21 aa            linear   PRI 12-MAR-2025
+DEFINITION  Chain A, Insulin A chain.
+ACCESSION   9M4Y_A
+VERSION     9M4Y_A
+DBSOURCE    pdb: molecule 9M4Y, chain A, release Mar 12, 2025;
+            deposition: Mar 5, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260884, Pdb_id 1: 9M4Y;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Cubic insulin crystals, Esrapid, At pH 3
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2025)
+COMMENT     Cubic insulin crystal, Esrapid, at pH 3.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..20
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc g
+//
+
+LOCUS       9M4X_B                    29 aa            linear   PRI 12-MAR-2025
+DEFINITION  Chain B, Insulin B chain.
+ACCESSION   9M4X_B
+VERSION     9M4X_B
+DBSOURCE    pdb: molecule 9M4X, chain B, release Mar 12, 2025;
+            deposition: Mar 5, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260883, Pdb_id 1: 9M4X;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Cubic insulin crystal, Esrapid, at pH 2
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2025)
+COMMENT     Cubic insulin crystal, Esrapid, at pH 2.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          8..19
+                     /sec_str_type="helix"
+                     /note="helix 1"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9M4X_A                    21 aa            linear   PRI 12-MAR-2025
+DEFINITION  Chain A, Insulin A chain.
+ACCESSION   9M4X_A
+VERSION     9M4X_A
+DBSOURCE    pdb: molecule 9M4X, chain A, release Mar 12, 2025;
+            deposition: Mar 5, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260883, Pdb_id 1: 9M4X;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Cubic insulin crystal, Esrapid, at pH 2
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Tosha,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2025)
+COMMENT     Cubic insulin crystal, Esrapid, at pH 2.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..20
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc g
+//
+
+LOCUS       9LVY_D                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain D, Insulin B chain.
+ACCESSION   9LVY_D
+VERSION     9LVY_D
+DBSOURCE    pdb: molecule 9LVY, chain D, release Feb 26, 2025;
+            deposition: Feb 13, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260128, Pdb_id 1: 9LVY;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     hexamer form of insulin detemir at ambient temperature
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2025)
+COMMENT     hexamer form of insulin detemir at ambient temperature.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          3..19
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Het             bond(10)
+                     /heterogen="(ZN,838)"
+     Het             bond(29)
+                     /heterogen="(MYR,840)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVY_C                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain C, Insulin A chain.
+ACCESSION   9LVY_C
+VERSION     9LVY_C
+DBSOURCE    pdb: molecule 9LVY, chain C, release Feb 26, 2025;
+            deposition: Feb 13, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260128, Pdb_id 1: 9LVY;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     hexamer form of insulin detemir at ambient temperature
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2025)
+COMMENT     hexamer form of insulin detemir at ambient temperature.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          1..9
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVY_B                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain B, Insulin B chain.
+ACCESSION   9LVY_B
+VERSION     9LVY_B
+DBSOURCE    pdb: molecule 9LVY, chain B, release Feb 26, 2025;
+            deposition: Feb 13, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260128, Pdb_id 1: 9LVY;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     hexamer form of insulin detemir at ambient temperature
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2025)
+COMMENT     hexamer form of insulin detemir at ambient temperature.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          3..19
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     Het             bond(10)
+                     /heterogen="(ZN,814)"
+     Het             bond(29)
+                     /heterogen="(MYR,816)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVY_A                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain A, Insulin A chain.
+ACCESSION   9LVY_A
+VERSION     9LVY_A
+DBSOURCE    pdb: molecule 9LVY, chain A, release Feb 26, 2025;
+            deposition: Feb 13, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260128, Pdb_id 1: 9LVY;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     hexamer form of insulin detemir at ambient temperature
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2025)
+COMMENT     hexamer form of insulin detemir at ambient temperature.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          1..9
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVX_H                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain H, Insulin B chain.
+ACCESSION   9LVX_H
+VERSION     9LVX_H
+DBSOURCE    pdb: molecule 9LVX, chain H, release Feb 26, 2025;
+            deposition: Feb 13, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260127, Pdb_id 1: 9LVX;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     di-hexamer form of insulin detemir at ambient temperature
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2025)
+COMMENT     di-hexamer form of insulin detemir at ambient temperature.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          3..19
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     Het             bond(10)
+                     /heterogen="(ZN,1687)"
+     Het             bond(29)
+                     /heterogen="(MYR,1689)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVX_G                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain G, Insulin A chain.
+ACCESSION   9LVX_G
+VERSION     9LVX_G
+DBSOURCE    pdb: molecule 9LVX, chain G, release Feb 26, 2025;
+            deposition: Feb 13, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260127, Pdb_id 1: 9LVX;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     di-hexamer form of insulin detemir at ambient temperature
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2025)
+COMMENT     di-hexamer form of insulin detemir at ambient temperature.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          1..9
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVX_F                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain F, Insulin B chain.
+ACCESSION   9LVX_F
+VERSION     9LVX_F
+DBSOURCE    pdb: molecule 9LVX, chain F, release Feb 26, 2025;
+            deposition: Feb 13, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260127, Pdb_id 1: 9LVX;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     di-hexamer form of insulin detemir at ambient temperature
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2025)
+COMMENT     di-hexamer form of insulin detemir at ambient temperature.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          2..19
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     Het             bond(10)
+                     /heterogen="(ZN,1663)"
+     Het             bond(29)
+                     /heterogen="(MYR,1665)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVX_E                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain E, Insulin A chain.
+ACCESSION   9LVX_E
+VERSION     9LVX_E
+DBSOURCE    pdb: molecule 9LVX, chain E, release Feb 26, 2025;
+            deposition: Feb 13, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260127, Pdb_id 1: 9LVX;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     di-hexamer form of insulin detemir at ambient temperature
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2025)
+COMMENT     di-hexamer form of insulin detemir at ambient temperature.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          2..9
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+     Het             bond(8)
+                     /heterogen="(MYR,1641)"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVX_D                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain D, Insulin B chain.
+ACCESSION   9LVX_D
+VERSION     9LVX_D
+DBSOURCE    pdb: molecule 9LVX, chain D, release Feb 26, 2025;
+            deposition: Feb 13, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260127, Pdb_id 1: 9LVX;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     di-hexamer form of insulin detemir at ambient temperature
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2025)
+COMMENT     di-hexamer form of insulin detemir at ambient temperature.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          3..19
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Het             bond(10)
+                     /heterogen="(ZN,1639)"
+     Het             bond(29)
+                     /heterogen="(MYR,1641)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVX_C                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain C, Insulin A chain.
+ACCESSION   9LVX_C
+VERSION     9LVX_C
+DBSOURCE    pdb: molecule 9LVX, chain C, release Feb 26, 2025;
+            deposition: Feb 13, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260127, Pdb_id 1: 9LVX;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     di-hexamer form of insulin detemir at ambient temperature
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2025)
+COMMENT     di-hexamer form of insulin detemir at ambient temperature.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          1..9
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVX_B                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain B, Insulin B chain.
+ACCESSION   9LVX_B
+VERSION     9LVX_B
+DBSOURCE    pdb: molecule 9LVX, chain B, release Feb 26, 2025;
+            deposition: Feb 13, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260127, Pdb_id 1: 9LVX;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     di-hexamer form of insulin detemir at ambient temperature
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2025)
+COMMENT     di-hexamer form of insulin detemir at ambient temperature.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          2..19
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     Het             bond(10)
+                     /heterogen="(ZN,1615)"
+     Het             bond(29)
+                     /heterogen="(MYR,1617)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVX_A                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain A, Insulin A chain.
+ACCESSION   9LVX_A
+VERSION     9LVX_A
+DBSOURCE    pdb: molecule 9LVX, chain A, release Feb 26, 2025;
+            deposition: Feb 13, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260127, Pdb_id 1: 9LVX;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     di-hexamer form of insulin detemir at ambient temperature
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Bahar,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2025)
+COMMENT     di-hexamer form of insulin detemir at ambient temperature.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          1..9
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVE_D                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain D, Insulin B chain.
+ACCESSION   9LVE_D
+VERSION     9LVE_D
+DBSOURCE    pdb: molecule 9LVE, chain D, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260126, Pdb_id 1: 9LVE;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (300K)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (300K).
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          3..19
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Het             bond(10)
+                     /heterogen="(ZN,838)"
+     Het             bond(29)
+                     /heterogen="(MYR,840)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVE_C                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain C, Insulin A chain.
+ACCESSION   9LVE_C
+VERSION     9LVE_C
+DBSOURCE    pdb: molecule 9LVE, chain C, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260126, Pdb_id 1: 9LVE;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (300K)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (300K).
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          1..9
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVE_B                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain B, Insulin B chain.
+ACCESSION   9LVE_B
+VERSION     9LVE_B
+DBSOURCE    pdb: molecule 9LVE, chain B, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260126, Pdb_id 1: 9LVE;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (300K)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (300K).
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          2..19
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     Het             bond(10)
+                     /heterogen="(ZN,814)"
+     Het             bond(29)
+                     /heterogen="(MYR,816)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVE_A                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain A, Insulin A chain.
+ACCESSION   9LVE_A
+VERSION     9LVE_A
+DBSOURCE    pdb: molecule 9LVE, chain A, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260126, Pdb_id 1: 9LVE;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (300K)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (300K).
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          1..9
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVD_D                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain D, Insulin B chain.
+ACCESSION   9LVD_D
+VERSION     9LVD_D
+DBSOURCE    pdb: molecule 9LVD, chain D, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260125, Pdb_id 1: 9LVD;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (200K)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (200K).
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          3..19
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     Het             bond(10)
+                     /heterogen="(ZN,838)"
+     Het             bond(29)
+                     /heterogen="(MYR,840)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVD_C                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain C, Insulin A chain.
+ACCESSION   9LVD_C
+VERSION     9LVD_C
+DBSOURCE    pdb: molecule 9LVD, chain C, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260125, Pdb_id 1: 9LVD;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (200K)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (200K).
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          2..9
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVD_B                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain B, Insulin B chain.
+ACCESSION   9LVD_B
+VERSION     9LVD_B
+DBSOURCE    pdb: molecule 9LVD, chain B, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260125, Pdb_id 1: 9LVD;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (200K)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (200K).
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          3..19
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Het             bond(10)
+                     /heterogen="(ZN,814)"
+     Het             bond(29)
+                     /heterogen="(MYR,816)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVD_A                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain A, Insulin A chain.
+ACCESSION   9LVD_A
+VERSION     9LVD_A
+DBSOURCE    pdb: molecule 9LVD, chain A, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260125, Pdb_id 1: 9LVD;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (200K)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin (200K).
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVC_H                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain H, Insulin B chain.
+ACCESSION   9LVC_H
+VERSION     9LVC_H
+DBSOURCE    pdb: molecule 9LVC, chain H, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260124, Pdb_id 1: 9LVC;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          2..19
+                     /sec_str_type="helix"
+                     /note="helix 8"
+     Het             bond(10)
+                     /heterogen="(ZN,1692)"
+     Het             bond(29)
+                     /heterogen="(MYR,1694)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVC_G                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain G, Insulin A chain.
+ACCESSION   9LVC_G
+VERSION     9LVC_G
+DBSOURCE    pdb: molecule 9LVC, chain G, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260124, Pdb_id 1: 9LVC;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          1..9
+                     /sec_str_type="helix"
+                     /note="helix 7"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVC_F                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain F, Insulin B chain.
+ACCESSION   9LVC_F
+VERSION     9LVC_F
+DBSOURCE    pdb: molecule 9LVC, chain F, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260124, Pdb_id 1: 9LVC;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          2..19
+                     /sec_str_type="helix"
+                     /note="helix 6"
+     Het             bond(10)
+                     /heterogen="(ZN,1668)"
+     Het             bond(29)
+                     /heterogen="(MYR,1670)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVC_E                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain E, Insulin A chain.
+ACCESSION   9LVC_E
+VERSION     9LVC_E
+DBSOURCE    pdb: molecule 9LVC, chain E, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260124, Pdb_id 1: 9LVC;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          1..9
+                     /sec_str_type="helix"
+                     /note="helix 5"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVC_D                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain D, Insulin B chain.
+ACCESSION   9LVC_D
+VERSION     9LVC_D
+DBSOURCE    pdb: molecule 9LVC, chain D, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260124, Pdb_id 1: 9LVC;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          3..19
+                     /sec_str_type="helix"
+                     /note="helix 4"
+     Het             bond(10)
+                     /heterogen="(ZN,1644)"
+     Het             bond(29)
+                     /heterogen="(MYR,1646)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVC_C                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain C, Insulin A chain.
+ACCESSION   9LVC_C
+VERSION     9LVC_C
+DBSOURCE    pdb: molecule 9LVC, chain C, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260124, Pdb_id 1: 9LVC;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          1..9
+                     /sec_str_type="helix"
+                     /note="helix 3"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
+
+LOCUS       9LVC_B                    29 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain B, Insulin B chain.
+ACCESSION   9LVC_B
+VERSION     9LVC_B
+DBSOURCE    pdb: molecule 9LVC, chain B, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260124, Pdb_id 1: 9LVC;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 29)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          2..>29
+                     /region_name="IlGF_insulin_like"
+                     /note="IlGF_like family, insulin_like subgroup, specific
+                     to vertebrates. Members include a number of peptides
+                     including insulin and insulin-like growth factors I and
+                     II, which play a variety of roles in controlling processes
+                     such as metabolism, growth and...; cd04367"
+                     /db_xref="CDD:239833"
+     SecStr          2..19
+                     /sec_str_type="helix"
+                     /note="helix 2"
+     Het             bond(10)
+                     /heterogen="(ZN,1620)"
+     Het             bond(29)
+                     /heterogen="(MYR,1622)"
+ORIGIN      
+        1 fvnqhlcgsh lvealylvcg ergffytpk
+//
+
+LOCUS       9LVC_A                    21 aa            linear   PRI 26-FEB-2025
+DEFINITION  Chain A, Insulin A chain.
+ACCESSION   9LVC_A
+VERSION     9LVC_A
+DBSOURCE    pdb: molecule 9LVC, chain A, release Feb 26, 2025;
+            deposition: Feb 12, 2025;
+            class: HORMONE;
+            source: Mmdb_id: 260124, Pdb_id 1: 9LVC;
+            Exp. method: X-ray Diffraction.
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 21)
+  AUTHORS   Ayan,E. and Kepceoglu,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2025)
+COMMENT     Temperature induces a shift from the dihexamer to the hexamer form
+            of insulin.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          <1..21
+                     /region_name="IlGF_like"
+                     /note="Insulin/insulin-like growth factor/relaxin family;
+                     insulin family of proteins. Members include a number of
+                     active peptides which are evolutionary related including
+                     insulin, relaxin, prorelaxin, insulin-like growth factors
+                     I and II, mammalian Leydig...; cl02453"
+                     /db_xref="CDD:470583"
+     SecStr          1..9
+                     /sec_str_type="helix"
+                     /note="helix 1"
+     Bond            bond(6,11)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 giveqcctsi cslyqlenyc n
+//
