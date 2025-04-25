@@ -20,5 +20,4 @@ conda init --all
 
 
 Gromacs
-
 wget https://ftp.gromacs.org/gromacs/gromacs-2025.1.tar.gz
